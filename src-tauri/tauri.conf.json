@@ -3,7 +3,7 @@
     "beforeBuildCommand": "ng build",
     "beforeDevCommand": "ng serve",
     "devPath": "http://localhost:4200",
-    "distDir": "../dist/angular_tauri_app/browser"
+    "distDir": "../dist/my-angulartauri-template/browser"
   },
   "package": {
     "productName": "my-angulartauri-template",
