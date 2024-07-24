@@ -6,7 +6,7 @@
     "distDir": "../dist/my-angulartauri-template/browser"
   },
   "package": {
-    "productName": "my-angulartauri-template",
+    "productName": "vto-dc-serials",
     "version": "0.1.0"
   },
   "tauri": {
@@ -54,7 +54,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "my-angulartauri-template",
+        "title": "vto-dc-serials",
         "width": 800
       }
     ]
